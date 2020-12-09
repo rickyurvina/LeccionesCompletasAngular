@@ -1,0 +1,19 @@
+.ProgressBarContainer {
+    width: 100%;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 2px 4px
+
+}
+
+.ProgressBar {
+    background: #89d5e9;
+    height: 15px;
+    border-radius: 10px;
+};
+
+.PercetageText {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
